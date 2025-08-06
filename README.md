@@ -75,8 +75,8 @@ Let's walk through the process of getting this powerful AI agent platform runnin
 First, bring the project to your local machine. This command creates a complete copy of the project with all its sophisticated agent configurations and tool integrations already in place:
 
 ```bash
-git clone https://github.com/sagacious-satadru/pica-mastra-demo-app.git
-cd my-pica-mastra-app
+git clone https://github.com/sagacious-satadru/mastra-pica-multipurpose-ai-agent
+cd mastra-pica-multipurpose-ai-agent
 ```
 
 ### Step 2: Install Dependencies
@@ -297,7 +297,7 @@ To deepen your understanding and expand your capabilities with this platform, ex
 - [Mastra Documentation](https://mastra.ai/en/docs) - Comprehensive guides on building agents, tools, and workflows
 - [Pica Dashboard](https://app.picaos.com) and [Pica Documentation](https://docs.picaos.com/get-started/introduction) - Manage your integrations and explore available connectors
 - [Vercel AI SDK Documentation](https://sdk.vercel.ai) - Learn about model routing and advanced AI features
-- [Project Issues](https://github.com/sagacious-satadru/pica-mastra-demo-app/issues) - Report bugs or request features
+- [Project Issues](https://github.com/sagacious-satadru/mastra-pica-multipurpose-ai-agent/issues) - Report bugs or request features
 
 ## 🤝 Contributing
 
