@@ -309,4 +309,4 @@ MIT License - You're free to use, modify, and distribute this project for both p
 
 ---
 
-*Built with ❤️ using [Mastra](https://mastra.ai), [Pica](https://picaos.com), and the [Vercel AI SDK](https://sdk.vercel.ai)*
+*Built with ❤️ using [Mastra](https://mastra.ai), [Pica](https://picaos.com), and the [Vercel AI SDK](https://sdk.vercel.ai), by [Satadru Bhowmik](https://github.com/sagacious-satadru/).*
