@@ -5,7 +5,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-brightgreen?style=flat-square&logo=node.js)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
 
-> A powerful AI Project Assistant with access to **100+ app integrations** through Pica - from Google Workspace to Slack, GitHub to Notion, and everything in between. Built with Mastra for intelligent conversation memory.
+> A powerful AI Project Assistant with access to **100+ app integrations** through Pica - from Google Workspace to Slack, GitHub to Notion, and everything in between. Built with Mastra for intelligent Agentic AI conversations and memory.
 
 ## ✨ Features
 
