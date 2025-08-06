@@ -51,7 +51,7 @@ Connect to virtually any app you use:
 ### 1. Clone and Install
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/sagacious-satadru/pica-mastra-demo-app.git
 cd my-pica-mastra-app
 npm install
 ```
