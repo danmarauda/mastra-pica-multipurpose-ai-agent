@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Satadru Bhowmik (https://github.com/sagacious-satadru/)",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "type": "module",
   "engines": {
@@ -30,6 +30,7 @@
   "devDependencies": {
     "@types/node": "^24.2.0",
     "mastra": "^0.10.20",
+    "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
   }
 }
