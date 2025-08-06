@@ -1,7 +1,7 @@
 # 🚀 Pica Mastra Project Assistant
 
 [![Mastra](https://img.shields.io/badge/Powered%20by-Mastra-blue?style=flat-square)](https://mastra.ai)
-[![Pica](https://img.shields.io/badge/Integrated%20with-Pica-green?style=flat-square)](https://pica.ai)
+[![Pica](https://img.shields.io/badge/Integrated%20with-Pica-green?style=flat-square)](https://picaos.com)
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-brightgreen?style=flat-square&logo=node.js)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
 
@@ -13,14 +13,16 @@
 Connect to virtually any app you use:
 
 **Productivity & Documents**
-- **Google Workspace**: Gmail, Google Drive, Google Docs, Google Sheets, Google Calendar
+- **Google Workspace**: Gmail, Google Drive, Google Docs, Google Sheets, Google Places, Google Calendar
 - **Microsoft 365**: Outlook, OneDrive, Word, Excel, PowerPoint, Teams
 - **Notion**: Database management, page creation, content operations
 
 **Development & Code**
 - **GitHub**: Repository management, issues, pull requests, actions
 - **GitLab**: Project management, CI/CD, merge requests
-- **DeepSeek**: Advanced AI code assistance and analysis
+- **Anthropic**: Advanced AI chat completion, code assistance and analysis
+- **OpenAI**: Advanced AI chat completion, code assistance and analysis
+- **DeepSeek**: Advanced AI chat completion, code assistance and analysis
 
 **Communication & Social**
 - **Slack**: Channel management, messaging, workspace administration
@@ -188,14 +190,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Documentation**: [Mastra Docs](https://mastra.ai/docs)
-- **Pica Integrations**: [Pica Documentation](https://pica.ai/docs)
+- **Pica Integrations**: [Pica Documentation](https://docs.picaos.com/get-started/introduction)
 - **Issues**: Create an issue in this repository
 
 ---
 
 <div align="center">
 
-**Built with ❤️ using [Mastra](https://mastra.ai) and [Pica](https://pica.ai)**
+**Built with ❤️ using [Mastra](https://mastra.ai) and [Pica](https://picaos.com)**
 
 *Making AI agents smarter, one conversation at a time.*
 
